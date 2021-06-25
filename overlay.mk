@@ -11,6 +11,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-asus-zenfonelivel1za550kl \
 	treble-overlay-asus-zenfonemaxm2 \
 	treble-overlay-asus-zenfonemaxshot \
+	treble-overlay-blackview-bv6900 \
 	treble-overlay-blackview-bv9500plus \
 	treble-overlay-bq-jeice \
 	treble-overlay-caf-ims \
@@ -68,9 +69,11 @@ PRODUCT_PACKAGES += \
 	treble-overlay-nokia-pnx-8.1-x7 \
 	treble-overlay-nokia-pnx-8.1-x7-systemui \
 	treble-overlay-nubia-z18mini \
+	treble-overlay-oneplus-nord_eea \
 	treble-overlay-oneplus-op6 \
 	treble-overlay-oneplus-op6t \
 	treble-overlay-oneplus-op6t-systemui \
+	treble-overlay-oukitel-wp8pro \
 	treble-overlay-razer-cheryl \
 	treble-overlay-realme-6 \
 	treble-overlay-realme-6i \
@@ -83,9 +86,12 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-a30 \
 	treble-overlay-samsung-a40 \
 	treble-overlay-samsung-a50 \
+	treble-overlay-samsung-a51 \
 	treble-overlay-samsung-a7 \
 	treble-overlay-samsung-a70 \
 	treble-overlay-samsung-a80 \
+	treble-overlay-samsung-j6 \
+	treble-overlay-samsung-m11q \
 	treble-overlay-samsung-n9q \
 	treble-overlay-samsung-s10e \
 	treble-overlay-samsung-s9pq \
